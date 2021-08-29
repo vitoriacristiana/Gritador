@@ -1,0 +1,16 @@
+C:\Users\Vitoria\Documents\exercicios\gritador\bin\Debug\net5.0\gritador.exe
+C:\Users\Vitoria\Documents\exercicios\gritador\bin\Debug\net5.0\gritador.deps.json
+C:\Users\Vitoria\Documents\exercicios\gritador\bin\Debug\net5.0\gritador.runtimeconfig.json
+C:\Users\Vitoria\Documents\exercicios\gritador\bin\Debug\net5.0\gritador.runtimeconfig.dev.json
+C:\Users\Vitoria\Documents\exercicios\gritador\bin\Debug\net5.0\gritador.dll
+C:\Users\Vitoria\Documents\exercicios\gritador\bin\Debug\net5.0\ref\gritador.dll
+C:\Users\Vitoria\Documents\exercicios\gritador\bin\Debug\net5.0\gritador.pdb
+C:\Users\Vitoria\Documents\exercicios\gritador\obj\Debug\net5.0\gritador.csproj.AssemblyReference.cache
+C:\Users\Vitoria\Documents\exercicios\gritador\obj\Debug\net5.0\gritador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitoria\Documents\exercicios\gritador\obj\Debug\net5.0\gritador.AssemblyInfoInputs.cache
+C:\Users\Vitoria\Documents\exercicios\gritador\obj\Debug\net5.0\gritador.AssemblyInfo.cs
+C:\Users\Vitoria\Documents\exercicios\gritador\obj\Debug\net5.0\gritador.csproj.CoreCompileInputs.cache
+C:\Users\Vitoria\Documents\exercicios\gritador\obj\Debug\net5.0\gritador.dll
+C:\Users\Vitoria\Documents\exercicios\gritador\obj\Debug\net5.0\ref\gritador.dll
+C:\Users\Vitoria\Documents\exercicios\gritador\obj\Debug\net5.0\gritador.pdb
+C:\Users\Vitoria\Documents\exercicios\gritador\obj\Debug\net5.0\gritador.genruntimeconfig.cache
